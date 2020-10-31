@@ -1,0 +1,12 @@
+{
+    "data": [
+        {
+            "name": "john Doe",
+            "email": "john@gmail.com"
+        },
+        {
+            "name": "Marry Me",
+            "email": "marry@gmail.com"
+        }
+    ]
+}
