@@ -1,4 +1,4 @@
 module.exports = {
   Secret: 'squelizenodejsjwt',
-  expiresIn: 360000
+  expiresIn: 600
 };
